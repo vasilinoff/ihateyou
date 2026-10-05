@@ -1,0 +1,6 @@
+body { font: 16px/1.6 ui-monospace, SFMono-Regular, Menlo, monospace; max-width: 680px; margin: 0 auto; padding: 48px 20px 80px; color: #eee; background: #000; }
+h1 { font-size: 34px; letter-spacing: -1px; margin: 0 0 4px; text-transform: uppercase; }
+h2 { font-size: 17px; margin: 32px 0 6px; text-transform: uppercase; }
+.sub { color: #888; margin: 0 0 24px; }
+a { color: #fff; }
+hr { border: 0; border-top: 1px solid #333; margin: 40px 0; }
